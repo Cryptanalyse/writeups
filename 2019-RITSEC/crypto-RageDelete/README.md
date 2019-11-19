@@ -2,7 +2,7 @@
 
 RITSEC 2019
 
-###Challenge description
+### Challenge description
 
 ```
 Help!!! Our Crypto guy left in a furious rage and deleted our company private key and part of our signatures! We use that key to sign all of our important documents and such. This should be enough information for you to figure it out:
